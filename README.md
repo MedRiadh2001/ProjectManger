@@ -6,8 +6,8 @@ Une application de gestion de projets construite avec React et Vite, utilisant l
 
 1. Clôner le dépôt :
 ```bash
-git clone https://github.com/MedRiadh2001/MiniprojetReact.git
-cd MiniprojetReact
+git clone https://github.com/MedRiadh2001/ProjectManger.git
+cd ProjectManger
 ```
 
 2. Installer les dépendances :
