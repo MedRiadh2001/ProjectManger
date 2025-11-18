@@ -4,17 +4,23 @@ Une application de gestion de projets construite avec React et Vite, utilisant l
 
 ## 🚀 Installation
 
-1. Installer les dépendances :
+1. Clôner le dépôt :
+```bash
+git clone https://github.com/MedRiadh2001/MiniprojetReact.git
+cd MiniprojetReact
+```
+
+2. Installer les dépendances :
 ```bash
 npm install
 ```
 
-2. Lancer l'application en mode développement :
+3. Lancer l'application en mode développement :
 ```bash
 npm run dev
 ```
 
-3. L'application sera accessible sur `http://localhost:5173`
+4. L'application sera accessible sur `http://localhost:5173`
 
 
 ## 🎯 Fonctionnalités
